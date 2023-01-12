@@ -1,26 +1,26 @@
 ### Hi there, I'm Sandhya Rana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
-**vibhorchaudhary/vibhorchaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**Sandhya-rana/Sandhya-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://github.com/vibhorchaudhary/vibhorchaudhary/issues) related to <b>Android application Development, Android Custom Operating System Development, Kotlin, Java, iOS Development, Swift, Javascript, Google App Script & Spring Boot, Security, Data JPA.</b>
-- 📫 How to reach me: [@vibhorchaudhary][linkedin] or say 👋 on Email at [Vibhor Chaudhary](mailto:vibhorchaudhary@yahoo.com)
+- 💬 Ask me anything [here](https://github.com/Sandhya-rana/Sandhya-rana/issues) related to <b>Android application Development, Android Custom Operating System Development, Kotlin, Java, iOS Development, Swift, Javascript, Google App Script & Spring Boot, Security, Data JPA.</b>
+- 📫 How to reach me: [@Sandhya-rana][linkedin] or say 👋 on Email at [Sandhya Rana](mailto:Sandhya-rana@yahoo.com)
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
 ### Connect with me:
 
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vibhorchaudhary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Sandhya-rana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sandhya-rana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sandhya-rana | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Sandhya-rana | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Sandhya-rana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sandhya-rana | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Sandhya-rana | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -44,10 +44,10 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 <br />
 
-[website]: https://forum.xda-developers.com/m/vibhorchaudhary.5991465/
-[linkedin]: https://linkedin.com/in/vibhorchaudhary
-[instagram]: https://www.instagram.com/mr.vibhorchaudhary/
-[twitter]: https://twitter.com/vibhorchaudhry
-[facebook]: https://www.facebook.com/vibhorchaudhary
-[github]: https://github.com/vibhorchaudhary
-[telegram]: https://t.me/vibhorchaudhary
+[website]: https://forum.xda-developers.com/m/Sandhya-rana.5991465/
+[linkedin]: https://linkedin.com/in/Sandhya-rana
+[instagram]: https://www.instagram.com/mr.Sandhya-rana/
+[twitter]: https://twitter.com/Sandhyachaudhry
+[facebook]: https://www.facebook.com/Sandhya-rana
+[github]: https://github.com/Sandhya-rana
+[telegram]: https://t.me/Sandhya-rana
