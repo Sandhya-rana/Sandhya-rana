@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://github.com/Sandhya-rana/Sandhya-rana/issues) related to <b>Android application Development, Android Custom Operating System Development, Kotlin, Java, iOS Development, Swift, Javascript, Google App Script & Spring Boot, Security, Data JPA.</b>
+- 💬 Ask me anything [here](https://github.com/Sandhya-rana/Sandhya-rana/issues) related to <b>Java, Javascript, Google App Script & Spring Boot, Security, Data JPA.</b>
 - 📫 How to reach me: [@Sandhya-rana][linkedin] or say 👋 on Email at [Sandhya Rana](mailto:Sandhya-rana@yahoo.com)
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
